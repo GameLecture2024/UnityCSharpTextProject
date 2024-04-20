@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\UnityCSharplearn\bin\Debug\net6.0\UnityCSharplearn.exe
+C:\Users\Administrator\Desktop\UnityCSharplearn\bin\Debug\net6.0\UnityCSharplearn.deps.json
+C:\Users\Administrator\Desktop\UnityCSharplearn\bin\Debug\net6.0\UnityCSharplearn.runtimeconfig.json
+C:\Users\Administrator\Desktop\UnityCSharplearn\bin\Debug\net6.0\UnityCSharplearn.dll
+C:\Users\Administrator\Desktop\UnityCSharplearn\bin\Debug\net6.0\UnityCSharplearn.pdb
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.dll
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\refint\UnityCSharplearn.dll
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.pdb
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\UnityCSharplearn.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\UnityCSharplearn\obj\Debug\net6.0\ref\UnityCSharplearn.dll
