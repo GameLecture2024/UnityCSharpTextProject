@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Vz3I2o/L6gRMxzI596wy8c6nhUfG+6mX2H+upO3BrTJzxl3lKibM0wXepB4DdnmZFB0MkDNT7+HxGc5WnKYqYg==",
+  "dgSpecHash": "deFOl5WaIC9SURRvt7bPGOlT09jao9nRMtnH23MU0pylS/DxbpLS2u+6qOChmZIooFHByoqum/F7fHN9QDYnrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\UnityCSharpTextProject\\C#\\Memory\\Memory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

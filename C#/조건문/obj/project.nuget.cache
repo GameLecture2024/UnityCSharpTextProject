@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f4ThkSWpD/neqj5kaH9s8GrrqQMdHpu/J/v4wZvZDA8En1x71Bh8UyMyk3ANQz7sq7j7ZuK7gZRpxbmJtBlGEA==",
+  "dgSpecHash": "Rhu+Nah4n+FiOBMMvszi3beKXlh7UBTq6/MNIYQjj0NAPNkEAwoAYCNYdz+M+o75AvSHiWxufvJmcWNkr7xTLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\UnityCSharpTextProject\\C#\\조건문\\조건문.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

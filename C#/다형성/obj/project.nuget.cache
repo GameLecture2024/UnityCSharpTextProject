@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+DnCV3zMAiIGeWcaMmUXyEjodgdoqdHFL5Bgf/qlywBM6BIAbEWncSAMNgQdDJwDaG+F8vB18DqJjzDCa25hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\UnityCSharpTextProject\\C#\\다형성\\다형성.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

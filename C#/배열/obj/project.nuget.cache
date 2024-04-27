@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TENYJR2y4lLXB7OSyDWAYJg7DS46R+gTsR9tgp9nRzVeTgbzGVGjkDGTQIfQLGas5DEqQf2ocCoKqV6X8UJiQw==",
+  "dgSpecHash": "1/ovjn2ggWBqobF50FU9ghRAqTzwd63EkLY/HvVcMnsXAwo5y0aFj6NnPYZmzyfYSZZ5bpnn+I4U2sIwjWjEPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Desktop\\UnityCSharpTextProject\\C#\\배열\\배열.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
